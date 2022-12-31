@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6C88C4&height=120&section=header"/>
 
 <div align="center">  
 
@@ -15,13 +15,14 @@
 ### Main skills:
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
 ### Tools: 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
   
 ### Studying in this moment:
-![CSS](https://img.shields.io/badge/-CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?&style=for-the-badge&logo=css3&logoColor=0078D4)&nbsp;
+![HTML](https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5&logoColor=239120)&nbsp;
  
 
  <div align="center">
@@ -29,6 +30,6 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{JoaoHAlves}/count.svg" /></p> 
 <br></div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6C88C4&height=120&section=footer"/>
   
   
