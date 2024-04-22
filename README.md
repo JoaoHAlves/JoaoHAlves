@@ -21,8 +21,8 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
   
 ### Studying in this moment:
-![CSS](https://img.shields.io/badge/-CSS-0D1117?&style=for-the-badge&logo=css3&logoColor=0078D4)&nbsp;
-![HTML](https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5&logoColor=239120)&nbsp;
+![JAVA](https://img.shields.io/badge/-JAVA-0D1117?&style=for-the-badge&logo=java3&logoColor=0078D4)&nbsp;
+
  
 
  <div align="center">
